@@ -55,10 +55,14 @@ The goal is to provide a space where users can:
 * Finance/analytics SaaS landing page UI
 * BI (Business Intelligence) UI/UX portfolio project
 
+![Screenshot (423)](https://github.com/user-attachments/assets/14acffba-55d3-439b-a821-faad335ccd40)
 
 ![Screenshot (417)](https://github.com/user-attachments/assets/af34f9b7-f627-4168-92e6-942aca6ca9c2)
 
 ![Screenshot (418)](https://github.com/user-attachments/assets/20f58f92-58fc-4dea-8d43-ebec45eed721)
+
+![Screenshot (422)](https://github.com/user-attachments/assets/06580ffc-6acb-4655-9320-776c067f45e1)
+
 
 
 
