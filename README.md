@@ -54,3 +54,12 @@ The goal is to provide a space where users can:
 * Dashboard builder interface mockup
 * Finance/analytics SaaS landing page UI
 * BI (Business Intelligence) UI/UX portfolio project
+
+
+![Screenshot (417)](https://github.com/user-attachments/assets/af34f9b7-f627-4168-92e6-942aca6ca9c2)
+
+![Screenshot (418)](https://github.com/user-attachments/assets/20f58f92-58fc-4dea-8d43-ebec45eed721)
+
+
+
+
